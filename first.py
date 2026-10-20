@@ -46,5 +46,6 @@ class game:
 if __name__ == "__main__":
     gamee=game()
     gamee.menu()
+    print("thanks for using this game")
 
             
