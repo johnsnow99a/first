@@ -17,5 +17,7 @@ hello to the world from my heart
 
 this is test for rebase
 
-and im glaad to be here:wq
+and im glaad to be here
+
+there was some syntax error that hasbeen changed
 
